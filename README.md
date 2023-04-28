@@ -22,7 +22,7 @@ Multiple payment options
 Getting Started
 To get started with OH POS, you need to have the .NET framework installed on your computer. You can download it from the official website: https://dotnet.microsoft.com/download.
 
-After installing the .NET framework, you can download OH POS from the Github repository: https://github.com/yourusername/oh_pos. You can either clone the repository or download it as a zip file.
+After installing the .NET framework, you can download OH POS from the Github repository: https://github.com/OsamaAsasfeh/OH_POS. You can either clone the repository or download it as a zip file.
 
 # Usage
 To use OH POS, you need to open the project in Visual Studio and run it. You will be presented with the login screen, where you can enter your credentials to access the system.
